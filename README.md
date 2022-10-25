@@ -6,7 +6,7 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
   <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/angelina-zhai/">
+    <a href="https://www.linkedin.com/in/justin13601/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="100">
     </a>
   </div>
