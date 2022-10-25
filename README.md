@@ -56,11 +56,11 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   * [**EPAI**](https://github.com/AngelinaZhai/epai-sentiment-of-tweets): NLP sentiment analysis of tweets.
 
 ### :handshake: Acknowledgements
-  * Alistair Johnson, DPhil | The Hospital for Sick Children
-  * Leo Anthony Celi, MD, MPH | MIT Laboratory for Computational Physiology
-  * Jennifer Hon, BDS, MBBS | Harvard Medical School
-  * Tristan Naumann, PhD | Microsoft Research Health Futures
-  * Farzard Khalvati, PhD | Department of Medical Imaging, University of Toronto
-  * Hon Leong, PhD | Sunnybrook Health Sciences Centre
-  * David Goertz, PhD | Sunnybrook Health Sciences Centre
-  * Emmanuel Chérin, PhD | Sunnybrook Health Sciences Centre
+  * Alistair Johnson, DPhil | *The Hospital for Sick Children*
+  * Leo Anthony Celi, MD, MPH | *MIT Laboratory for Computational Physiology*
+  * Jennifer Hon, BDS, MBBS | *Harvard Medical School*
+  * Tristan Naumann, PhD | *Microsoft Research Health Futures*
+  * Farzard Khalvati, PhD | *University of Toronto*
+  * Hon Leong, PhD | *Sunnybrook Health Sciences Centre*
+  * David Goertz, PhD | *Sunnybrook Health Sciences Centre*
+  * Emmanuel Chérin, PhD | *Sunnybrook Health Sciences Centre*
