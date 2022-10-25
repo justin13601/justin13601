@@ -5,28 +5,20 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCipSxT7a3rn81vGLw9lqRkg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCipSxT7a3rn81vGLw9lqRkg?color=%23E1AD0E&logo=video&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DenverCoder1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
-</p>
-
+  <div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/angelina-zhai/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/ width="100">
+    </a>
+  </div>
 <h3 align="center">
  • Per aspera ad astra •
 </h3>
 
- ### :man_technologist: About Me
+## :man_technologist: About Me
  
 Resourceful, results-driven, and dedicated student biomedical engineer at University of Toronto. Looking to leverage my professional skills and passions for medicine and machine learning in healthcare!
 
-### :hammer_and_wrench: Languages, Tools, and Frameworks:
+## :hammer_and_wrench: Languages, Tools, and Frameworks:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
@@ -50,6 +42,11 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
+## :seedling: Current Projects:
+* **MIMIC-Dash**: A clinical terminology annotation dashboard supported by NLP for standardized ontology mapping of patient health records.
+* **VA-SDoH**: Using BERT/RoBERTa NLP transformers on verbal autopsy datasets for sequence classification of social determinants of health.
+* **MANU**: Microvessel and Neoplasm Ultrasound (MANU) image analysis software for the avian embryo patient-derived tumour platform (PDX*ovos*).
+* **EPAI**: NLP sentiment analysis of tweets.
 
 <!---
 justin13601/justin13601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
