@@ -60,7 +60,7 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   * Leo Anthony Celi, MD, MPH, MS | MIT :aboratory for Computational Physiology
   * Jennifer Hon, BDS, MBBS | Harvard Medical School
   * Tristan Naumann, PhD | Microsoft Research Health Futures
+  * Farzard Khalvati, PhD | Department of Medical Imaging, University of Toronto
   * Hon Leong, PhD | Sunnybrook Health Sciences Centre
   * David Goertz, PhD | Sunnybrook Health Sciences Centre
   * Emmanuel Chérin, PhD | Sunnybrook Health Sciences Centre
-  * Farzard Khalvati, PhD | Department of Medical Imaging, University of Toronto
