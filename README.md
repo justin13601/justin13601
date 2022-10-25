@@ -4,13 +4,17 @@
 
 
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me:
 
-- 👋 Hi, I’m Justin
-- 👀 I’m interested in machine learning and healthcare
-- 🌱 I’m currently studying biomedical engineering @ the University of Toronto
+Resourceful, results-driven, and dedicated student biomedical engineer at University of Toronto. Looking to leverage my professional skills and passions for medicine and machine learning in healthcare. 
+
+
 
 <!---
 justin13601/justin13601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+- 👋 Hi, I’m Justin
+- 👀 I’m interested in machine learning and healthcare
+- 🌱 I’m currently studying biomedical engineering @ the University of Toronto
 --->
