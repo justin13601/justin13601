@@ -36,6 +36,7 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   <img src="https://i.imgur.com/OmVOr8g.png" title="HuggingFace" alt="HuggingFace" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/vRQ2peq.png" title="Scikit-learn" alt="Scikit-learn" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://lucene.apache.org/theme/images/lucene/lucene_og_image.png" title="Apache Lucene" alt="Apache Lucene" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" title="Plotly" alt="Ploty" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/vcAmO24.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>&nbsp;
@@ -43,7 +44,7 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharms" alt="Pycharms" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" title="Pycharms" alt="Pycharms" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
