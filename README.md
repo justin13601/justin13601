@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.linkedin.com/in/justin13601/">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/ height="30">
     </a>
-    <a href="https://www.toronto.ca/">
+    <a href="https://github.com/justin13601?tab=repositories">
       <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-green?style=for-the-badge&logoColor=white&logo=repo" alt="Repos"/ height="30">
     </a>
     <a href="https://flowcv.me/justinxu">
