@@ -4,6 +4,8 @@
 
 
 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
 - 👋 Hi, I’m Justin
 - 👀 I’m interested in machine learning and healthcare
 - 🌱 I’m currently studying biomedical engineering @ the University of Toronto
