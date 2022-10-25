@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 </h3>
 
 
-### :man_technologist: About Me 
+### :man_technologist: About 
 Resourceful, results-driven, and dedicated student biomedical engineer at University of Toronto. Looking to leverage my professional skills and passions for medicine and machine learning in healthcare!
 
 ### :hammer_and_wrench: Languages, Tools, and Frameworks
