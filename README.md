@@ -1,3 +1,8 @@
+<!---
+justin13601/justin13601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <div id="header" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=30&duration=4000&pause=1000&color=F7863C&center=true&width=850&lines=Hi+there%2C+welcome+to+my+profile!;I'm+a+biomedical+engineer+at+the+University+of+Toronto.;I'm+interested+in+machine+learning+and+healthcare!;Thanks+for+stopping+by+%3AD" alt="Typing SVG" /></a>
 </div>
@@ -49,11 +54,12 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   * [**MANU**](https://github.com/justin13601/pLGG_Fusion_Net): Microvessel and Neoplasm Ultrasound (MANU) image analysis software for the avian embryo patient-derived tumour platform (PDX*ovos*).
   * [**EPAI**](https://github.com/AngelinaZhai/epai-sentiment-of-tweets): NLP sentiment analysis of tweets.
 
-<!---
-justin13601/justin13601 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m Justin
-- 👀 I’m interested in machine learning and healthcare
-- 🌱 I’m currently studying biomedical engineering @ the University of Toronto
---->
+### :handshake: Acknowledgements
+  * Alistair Johnson, DPhil | The Hospital for Sick Children
+  * Leo Anthony Celi, MD, MPH, MS | MIT :aboratory for Computational Physiology
+  * Jennifer Hon, BDS, MBBS | Harvard Medical School
+  * Tristan Naumann, PhD | Microsoft Research Health Futures
+  * Hon Leong, PhD | Sunnybrook Health Sciences Centre
+  * David Goertz, PhD | Sunnybrook Health Sciences Centre
+  * Emmanuel Chérin, PhD | Sunnybrook Health Sciences Centre
+  * Farzard Khalvati, PhD | Department of Medical Imaging, University of Toronto
