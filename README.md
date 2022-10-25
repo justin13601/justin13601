@@ -14,11 +14,11 @@
  • Per aspera ad astra •
 </h3>
 
-## :man_technologist: About Me
- 
+
+### :man_technologist: About Me 
 Resourceful, results-driven, and dedicated student biomedical engineer at University of Toronto. Looking to leverage my professional skills and passions for medicine and machine learning in healthcare!
 
-## :hammer_and_wrench: Languages, Tools, and Frameworks:
+### :hammer_and_wrench: Languages, Tools, and Frameworks:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
-## :seedling: Projects:
+### :seedling: Projects:
 * [**MIMIC-Dash**](https://github.com/justin13601/mimic-iv-dash/): A clinical terminology annotation dashboard supported by NLP for standardized ontology mapping of patient health records.
 * [**VA-SDoH**](https://github.com/kind-lab/verbal-autopsy-sdoh): Using BERT/RoBERTa NLP transformers on verbal autopsy datasets for sequence classification of social determinants of health.
 * [**pLGG**](https://github.com/justin13601/pLGG_Fusion_Net): Radiomics and 3D ResNets for Pretherapeutic MRI Differentiation of BRAF Status in pediatric low-grade gliomas.
