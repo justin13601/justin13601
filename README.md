@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.linkedin.com/in/justin13601/">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <img alt="My LinkedIn" title="My LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/justin13601?tab=repositories">
     <img alt="My Repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-55960c?style=for-the-badge&logoColor=white&logo=repo"/></a> 
   <a href="https://flowcv.me/justinxu">
