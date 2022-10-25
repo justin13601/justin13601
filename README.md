@@ -12,7 +12,16 @@ You can click the Preview link to take a look at your changes.
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/justin13601/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/ width="100">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/ height="30">
+    </a>
+    <a href="https://www.toronto.ca/">
+      <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-green?style=for-the-badge&logoColor=white&logo=repo" alt="Repos"/ height="30">
+    </a>
+    <a href="https://flowcv.me/justinxu">
+      <img src="https://custom-icon-badges.demolab.com/badge/Justin%20Xu-E4405F?style=for-the-badge&logo=home&logoColor=white" alt="Home"/ height="30">
+    </a>
+    <a href="https://www.toronto.ca/">
+      <img src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-purple?style=for-the-badge&logo=location&logoColor=white" alt="Location"/ height="30">
     </a>
   </div>
 <h3 align="center">
