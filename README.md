@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=29&duration=4000&pause=1000&color=F7985B&center=true&width=800&lines=Hi+there%2C+welcome+to+my+profile!;I'm+currently+a+biomedical+engineer+in+Toronto.;I'm+interested+in+machine+learning+and+healthcare!;Thanks+for+stopping+by+%3AD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=30&duration=4000&pause=1000&color=F7863C&center=true&width=850&lines=Hi+there%2C+welcome+to+my+profile!;I'm+a+biomedical+engineer+at+the+University+of+Toronto.;I'm+interested+in+machine+learning+and+healthcare!;Thanks+for+stopping+by+%3AD" alt="Typing SVG" /></a>
 </div>
 
 <!-- Social badges section -->
