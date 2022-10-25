@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&pause=1000&color=FF866F&center=true&width=435&lines=Hi+there%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
-
+<div id="header" align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Open+Sans&size=32&pause=1000&color=F7985B&center=true&width=435&lines=Hi+there%2C+welcome+to+my+profile!" alt="Typing SVG" /></a>
+</div>
 
 - 👋 Hi, I’m Justin
 - 👀 I’m interested in machine learning and healthcare
