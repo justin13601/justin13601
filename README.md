@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://flowcv.me/justinxu">
     <img alt="My Site" title="My Site" src="https://custom-icon-badges.demolab.com/badge/Justin%20Xu-E4405F?style=for-the-badge&logo=home&logoColor=white"/></a> 
   <a href="https://www.toronto.ca/">
-    <img alt="My Location" title="My Location" src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-purple?style=for-the-badge&logo=location&logoColor=white&labelColor=a10096"/></a> 
+    <img alt="My Location" title="My Location" src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-a10096?style=for-the-badge&logo=location&logoColor=white&labelColor=purple"/></a> 
 </p>
 
 <h3 align="center">
