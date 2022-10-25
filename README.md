@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div id="header" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=4000&pause=1000&color=F7883F&center=true&width=800&lines=Hi+there%2C+welcome+to+my+profile!;I'm+a+biomedical+engineer+at+the+University+of+Toronto.;I'm+passionate+about+machine+learning+%26+healthcare!;Thanks+for+stopping+by+%3A)" alt="Typing SVG" /></a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=30&duration=4000&pause=1000&color=F7863C&center=true&width=850&lines=Hi+there%2C+welcome+to+my+profile!;I'm+a+biomedical+engineer+at+the+University+of+Toronto.;I'm+interested+in+machine+learning+and+healthcare!;Thanks+for+stopping+by+%3AD" alt="Typing SVG" /></a>
 </div>
   
@@ -14,11 +15,11 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/justin13601/">
     <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/justin13601?tab=repositories">
-    <img alt="My Repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-green?style=for-the-badge&logoColor=white&logo=repo"/></a> 
+    <img alt="My Repos" title="My Repos" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-55960c?style=for-the-badge&logoColor=white&logo=repo"/></a> 
   <a href="https://flowcv.me/justinxu">
     <img alt="My Site" title="My Site" src="https://custom-icon-badges.demolab.com/badge/Justin%20Xu-E4405F?style=for-the-badge&logo=home&logoColor=white"/></a> 
   <a href="https://www.toronto.ca/">
-    <img alt="My Location" title="My Location" src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-purple?style=for-the-badge&logo=location&logoColor=white"/></a> 
+    <img alt="My Location" title="My Location" src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-purple?style=for-the-badge&logo=location&logoColor=white&labelColor=a10096"/></a> 
 </p>
 
 <h3 align="center">
