@@ -42,9 +42,10 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
-## :seedling: Current Projects:
+## :seedling: Projects:
 * **MIMIC-Dash**: A clinical terminology annotation dashboard supported by NLP for standardized ontology mapping of patient health records.
 * **VA-SDoH**: Using BERT/RoBERTa NLP transformers on verbal autopsy datasets for sequence classification of social determinants of health.
+* **pLGG**: Radiomics and 3D ResNets for Pretherapeutic MRI Differentiation of BRAF Status in pediatric low-grade gliomas.
 * **MANU**: Microvessel and Neoplasm Ultrasound (MANU) image analysis software for the avian embryo patient-derived tumour platform (PDX*ovos*).
 * **EPAI**: NLP sentiment analysis of tweets.
 
