@@ -36,7 +36,7 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   <img src="https://i.imgur.com/OmVOr8g.png" title="HuggingFace" alt="HuggingFace" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/vRQ2peq.png" title="Scikit-learn" alt="Scikit-learn" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <img src="https://lucene.apache.org/theme/images/lucene/lucene_og_image.png" title="Apache Lucene" alt="Apache Lucene" width="40" height="40"/>&nbsp;
+  <img src="https://lucene.apache.org/theme/images/lucene/lucene_og_image.png" title="Apache Lucene" alt="Apache Lucene" width="40" height="30"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" title="Plotly" alt="Ploty" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/vcAmO24.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>&nbsp;
