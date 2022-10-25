@@ -61,6 +61,6 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   * **Jennifer Hon**, BDS, MBBS | *Harvard Medical School*
   * **Tristan Naumann**, PhD | *Microsoft Research Health Futures*
   * **Farzard Khalvati**, PhD | *University of Toronto*
-  * **Hon Leong**, PhD | *Sunnybrook Health Sciences Centre*
+  * **Hon S. Leong**, PhD | *Sunnybrook Health Sciences Centre*
   * **David Goertz**, PhD | *Sunnybrook Health Sciences Centre*
   * **Emmanuel Chérin**, PhD | *Sunnybrook Health Sciences Centre*
