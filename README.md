@@ -54,11 +54,11 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
 </div>
 
-### :seedling: Projects
+### :seedling: Current Projects
   * [**MIMIC-Dash**](https://github.com/justin13601/mimic-iv-dash/): A clinical terminology annotation dashboard supported by NLP for standardized ontology mapping of patient health records.
   * [**VA-SDoH**](https://github.com/kind-lab/verbal-autopsy-sdoh): Using BERT/RoBERTa NLP transformers on verbal autopsy datasets for sequence classification of social determinants of health.
-  * [**pLGG**](https://github.com/justin13601/pLGG_Fusion_Net): Radiomics and 3D ResNets for Pretherapeutic MRI Differentiation of BRAF Status in pediatric low-grade gliomas.
-  * [**MANU**](https://github.com/justin13601/pLGG_Fusion_Net): Microvessel and Neoplasm Ultrasound (MANU) image analysis software for the avian embryo patient-derived tumour platform (PDX*ovos*).
+  * [**pLGG**](https://github.com/justin13601/pLGG_Fusion_Net): Radiomics and 3D ResNets for pretherapeutic MRI differentiation of BRAF status in pediatric low-grade gliomas.
+  * [**MANU**](https://github.com/justin13601/pLGG_Fusion_Net): Microvessel and Neoplasm Ultrasound (MANU) image analysis software for the avian embryo patient-derived xenograft platform (PDX*ovos*).
   * [**EPAI**](https://github.com/AngelinaZhai/epai-sentiment-of-tweets): NLP sentiment analysis of tweets.
 
 ### :handshake: Acknowledgements
