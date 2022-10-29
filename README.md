@@ -4,7 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div id="header" align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=4000&pause=1000&color=F7883F&center=true&width=800&lines=Hi+there%2C+welcome+to+my+profile!;I'm+a+biomedical+engineer+at+the+University+of+Toronto.;I'm+passionate+about+machine+learning+%26+healthcare!;Thanks+for+stopping+by+%3A)" alt="Typing SVG" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=4000&pause=1000&color=F7883F&center=true&vCenter=true&width=800&lines=Hi+there%2C+welcome+to+my+profile!;I'm+a+biomedical+engineer+at+the+University+of+Toronto.;I'm+passionate+about+machine+learning+%26+healthcare!;Thanks+for+stopping+by+%3A)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=4000&pause=1000&color=F7883F&center=true&vCenter=true&width=800&lines=Hi+there%2C+welcome+to+my+profile!;I'm+a+biomedical+engineer+at+the+University+of+Toronto.;I'm+passionate+about+machine+learning+%26+healthcare!;Thanks+for+stopping+by+%3A)"/>
+</picture>
 </div>
   
 <!-- Social badges section -->
