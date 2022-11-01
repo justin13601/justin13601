@@ -66,8 +66,8 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
 
 ### :handshake: Acknowledgements
   * **Alistair Johnson**, DPhil | *The Hospital for Sick Children*
-  * **Leo Anthony Celi**, MD, MPH | *MIT Laboratory for Computational Physiology*
   * **Jennifer Hon**, BDS, MBBS | *Harvard Medical School*
+  * **Leo Anthony Celi**, MD, MPH | *MIT Laboratory for Computational Physiology*
   * **Tristan Naumann**, PhD | *Microsoft Research Health Futures*
   * **Farzard Khalvati**, PhD | *University of Toronto*
   * **Hon S. Leong**, PhD | *Sunnybrook Health Sciences Centre*
