@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
     <img alt="My Location" title="My Location" src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-a10096?style=for-the-badge&logo=location&logoColor=white&labelColor=purple"/></a> 
 </p> -->
 
-<h3 align="center" style="color:crimson;">
+<h3 align="center">
   • Per aspera ad astra •
 </h3>
 
