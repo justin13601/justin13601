@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/justin13601/">
     <img alt="My LinkedIn" title="My LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/justin13601?tab=repositories">
@@ -22,10 +22,10 @@ You can click the Preview link to take a look at your changes.
     <img alt="My Site" title="My Site" src="https://custom-icon-badges.demolab.com/badge/Justin%20Xu-E4405F?style=for-the-badge&logo=home&logoColor=white"/></a> 
   <a href="https://www.toronto.ca/">
     <img alt="My Location" title="My Location" src="https://custom-icon-badges.demolab.com/badge/Toronto-Canada-a10096?style=for-the-badge&logo=location&logoColor=white&labelColor=purple"/></a> 
-</p>
+</p> -->
 
 <h3 align="center">
- • Per aspera ad astra •
+  <p style="color:#FF0000";>• Per aspera ad astra •</p>
 </h3>
 
 
