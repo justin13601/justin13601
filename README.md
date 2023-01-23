@@ -3,12 +3,12 @@ justin13601/justin13601 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=4000&pause=1000&color=F7883F&center=true&vCenter=true&width=800&lines=Hi+there%2C+welcome+to+my+Github!;I'm+a+biomedical+engineer+at+the+University+of+Toronto.;I'm+passionate+about+machine+learning+%26+healthcare!;Thanks+for+stopping+by+%3A)"/>
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=4000&pause=1000&color=F7883F&center=true&vCenter=true&width=800&lines=Hi+there%2C+welcome+to+my+Github!;I'm+a+biomedical+engineer+at+the+University+of+Toronto.;I'm+passionate+about+machine+learning+%26+healthcare!;Thanks+for+stopping+by+%3A)"/>
 </picture>
-</div>
+</div> -->
   
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
