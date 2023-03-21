@@ -61,7 +61,7 @@ Resourceful, results-driven, and dedicated student biomedical engineer at Univer
   * [**AnnoDash**](https://github.com/justin13601/AnnoDash/): A clinical terminology annotation dashboard supported by NLP for standardized ontology mapping of patient health records.
   * [**VA-SDoH**](https://colab.research.google.com/drive/1lADjaxRdIlXg0R983rQE8bgf1Ic2xZdQ?usp=sharing): Using BERT/RoBERTa NLP transformers on verbal autopsy datasets for sequence classification of social determinants of health.
   * [**pLGG**](https://github.com/justin13601/pLGG_Fusion_Net): Radiomics and 3D ResNets for pretherapeutic MRI differentiation of BRAF status in pediatric low-grade gliomas.
-  * [**MANU**](https://github.com/justin13601/pLGG_Fusion_Net): Microvessel and Neoplasm Ultrasound (MANU) image analysis software for the avian embryo patient-derived xenograft platform (PDX*ovos*).
+  * [**MANU**](https://github.com/justin13601/UMI_for_PDX): Microvessel and Neoplasm Ultrasound (MANU) image analysis software for the avian embryo patient-derived xenograft platform (PDX*ovos*).
   * [**EPAI**](https://github.com/AngelinaZhai/epai-sentiment-of-tweets): NLP sentiment analysis of tweets.
 
 ### :handshake: Acknowledgements
