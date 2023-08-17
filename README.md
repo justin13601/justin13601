@@ -42,6 +42,7 @@ Resourceful, results-driven, and dedicated data scientist. Trained as a biomedic
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
+  <img src="https://i.imgur.com/Ms6Ur6y.png" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/OmVOr8g.png" title="HuggingFace" alt="HuggingFace" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/vRQ2peq.png" title="Scikit-learn" alt="Scikit-learn" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
