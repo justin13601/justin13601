@@ -45,11 +45,11 @@ Resourceful, results-driven, and dedicated data scientist. Trained as a biomedic
   <img src="https://i.imgur.com/Ms6Ur6y.png" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/OmVOr8g.png" title="HuggingFace" alt="HuggingFace" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/vRQ2peq.png" title="Scikit-learn" alt="Scikit-learn" width="40"/>&nbsp;
-  <img src="https://i.imgur.com/7Im8q2D.png" title="Polars" alt="Polars" width="50" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/GE5M96N.png" title="Apache Lucene" alt="Apache Lucene" width="40" height="35"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" title="Plotly" alt="Ploty" width="40" height="40"/>&nbsp;
   <img src="https://i.imgur.com/vcAmO24.png" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://i.imgur.com/7Im8q2D.png" title="Polars" alt="Polars" width="50" height="33"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
