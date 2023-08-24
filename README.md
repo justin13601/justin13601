@@ -67,8 +67,8 @@ Resourceful, results-driven, and dedicated data scientist. Trained as a biomedic
   * [**EPAI**](https://github.com/AngelinaZhai/epai-sentiment-of-tweets): NLP sentiment analysis of tweets.
 
 ### :handshake: Acknowledgements
-  * **Alistair Johnson**, DPhil | *Child Health Evaluative Sciences, The Hospital for Sick Children*
-  * **Matthew McDermott**, PhD | *Department of Biomedical Informatics, Harvard Medical School*
+  * **Alistair Johnson**, DPhil | *The Hospital for Sick Children*
+  * **Matthew McDermott**, PhD | *Harvard Medical School*
   * **Jennifer Hon**, BDS, MBBS | *Harvard Medical School*
   * **Leo Anthony Celi**, MD, MPH | *MIT Laboratory for Computational Physiology*
   * **Tristan Naumann**, PhD | *Microsoft Research Health Futures*
