@@ -59,7 +59,7 @@ Resourceful, results-driven, and dedicated data scientist. Trained as a biomedic
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
 </div>
 
-### :seedling: Current Projects
+### :seedling: Projects
   * [**AnnoDash**](https://github.com/justin13601/AnnoDash/): A clinical terminology annotation dashboard supported by LLMs for standardized ontology mapping of patient health records.
   * [**VA-SDoH**](https://colab.research.google.com/drive/1lADjaxRdIlXg0R983rQE8bgf1Ic2xZdQ?usp=sharing): Using BERT/RoBERTa NLP transformers on verbal autopsy datasets for sequence classification of social determinants of health.
   * [**pLGG**](https://github.com/justin13601/pLGG_Fusion_Net): Radiomics and 3D ResNets for pretherapeutic MRI differentiation of BRAF status in pediatric low-grade gliomas.
