@@ -3,6 +3,19 @@ justin13601/justin13601 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/justin13601/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Logo"  />
+  </a>
+</div>
+
+
 <!-- <div id="header" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Ubuntu&size=28&duration=4000&pause=1000&color=F7883F&center=true&vCenter=true&width=800&lines=Hi+there%2C+welcome+to+my+Github!;I'm+a+biomedical+engineer+at+the+University+of+Toronto.;I'm+passionate+about+machine+learning+%26+healthcare!;Thanks+for+stopping+by+%3A)"/>
