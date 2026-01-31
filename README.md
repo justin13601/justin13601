@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif"  />
+  <img height="200" src="https://i.imgur.com/uBCV3zV.gif"  />
 </div>
 
 ###
