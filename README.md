@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
   • Per aspera ad astra •
 </h3>
 
-
+<!---
 ### :man_technologist: About 
 Resourceful, results-driven, and dedicated data scientist. Trained as a biomedical engineer. Looking to leverage my professional skills and passions for clinical AI and machine learning in healthcare!
 
@@ -75,3 +75,4 @@ Resourceful, results-driven, and dedicated data scientist. Trained as a biomedic
   * **Hon S. Leong**, PhD | *Sunnybrook Health Sciences Centre*
   * **David Goertz**, PhD | *Sunnybrook Health Sciences Centre*
   * **Emmanuel Chérin**, PhD | *Sunnybrook Health Sciences Centre*
+--->
